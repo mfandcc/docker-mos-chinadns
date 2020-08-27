@@ -1,6 +1,6 @@
 FROM alpine:latest
 
-ENV VERSION v1.4.0
+ENV VERSION v1.4.1
 
 WORKDIR /opt
 
